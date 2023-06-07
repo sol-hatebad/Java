@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="umrechner:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/umrechner_jar</output-path>
+    <root id="archive" name="umrechner.jar">
+      <element id="module-output" name="umrechner" />
+    </root>
+  </artifact>
+</component>
